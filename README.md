@@ -13,6 +13,6 @@ Var_confidence: Variance of estimated fire radiative power in megawatts
 Count: daily numbers of pixels for presumed vegetation fires with a confidence level of larger than 75% for a given region
 Replaced: Indicates with an Y whether the data has been replaced with standard quality data when they are available (usually with a 2-3 month lag). Replaced data has a slightly higher quality in terms of locations
 
-The project will use dash to create web dashboard to displace charts based on selected Region and Year
+The project will use dash to create web dashboard to display charts based on selected Region and Year
 - Pie Chart on Monthly Average Estimated Fire Area
 - Bar Chart on Monthly Average Count of Pixels for Presumed Vegetation Fires
